@@ -11,13 +11,17 @@
 
 **Programming** 💻
 
-    ***Python*** 🐍
+    Python* 🐍
 
     Rust 🦀
 
 **AIGC** 🤖
 
-    ***LLaMA*** 🦙
+    LLaMA* 🦙
     
-    ***StableDiffusion*** 🤗
+    StableDiffusion* 🤗
+
+**Network** 🛜
+
+    OpenWRT*
 
