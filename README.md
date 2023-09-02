@@ -23,5 +23,5 @@
 
 **Network** 🛜
 
-    OpenWRT*
+    OpenWRT* 😇
 
