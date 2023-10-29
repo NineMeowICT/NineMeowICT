@@ -39,5 +39,11 @@
 
     Audacity* 🐚
 
+**Typesetting**
+
+    LaTeX 🔬
+
+    Markdown* 🖋️
+
     
 
