@@ -43,6 +43,10 @@
 
     Audacity* 🐚
 
+    Premiere Pro** 📽️
+
+    GIMP 🎃
+
 **Typesetting**
 
     LaTeX 🔬
