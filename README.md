@@ -37,15 +37,17 @@
 
     FFmpeg** 🚄
 
-    VapourSynth 🪼
+    VapourSynth* 🪼
 
     AegiSub 🥳
 
     Audacity* 🐚
 
-    Premiere Pro** 📽️
+    Premiere Pro** (Deprecated)
 
-    GIMP 🎃
+    GIMP* 🎃
+
+    Kdenlive 📽️
 
 **Typesetting**
 
