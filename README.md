@@ -25,7 +25,7 @@
 
 **AIGC** 🤖
 
-    Using offline LLM* 🦙
+    Using offline LLM** 🦙
     
     StableDiffusion** 🤗
 
