@@ -25,13 +25,13 @@
 
 **AIGC** 🤖
 
-    Using offline LLM** 🦙
+    Using offline LLM*** 🦙
     
-    StableDiffusion** 🤗
+    StableDiffusion*** 🤗
 
 **Network** 🛜
 
-    OpenWRT* 😇
+    OpenWRT** 😇
 
 **MultiMedia Technology**
 
@@ -39,7 +39,7 @@
 
     VapourSynth* 🪼
 
-    AegiSub 🥳
+    AegiSub* 🥳
 
     Audacity* 🐚
 
