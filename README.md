@@ -17,6 +17,8 @@
 
     Godot 🎮
 
+    O3DE 🎮
+
 **Programming** 💻
 
     Python* 🐍
@@ -27,7 +29,7 @@
 
     Using offline LLM*** 🦙
     
-    StableDiffusion*** 🤗
+    StableDiffusion**** 🤗
 
 **Network** 🛜
 
@@ -47,7 +49,7 @@
 
     GIMP* 🎃
 
-    Kdenlive 📽️
+    Kdenlive* 📽️
 
 **Typesetting**
 
