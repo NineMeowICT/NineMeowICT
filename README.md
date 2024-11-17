@@ -27,7 +27,7 @@
 
 **AIGC** 🤖
 
-    Using offline LLM*** 🦙
+    Deploying offline LLM*** 🦙
     
     T2I*** 🤗
 
