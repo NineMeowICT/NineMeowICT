@@ -9,7 +9,9 @@
 
 \*** means "Intermediate"
 
-\**** means "Master"
+\**** means "Proficient"
+
+\***** means "Master"
 
 **3D&Game** 🎮
 
