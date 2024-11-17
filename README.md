@@ -29,7 +29,7 @@
 
     Using offline LLM*** 🦙
     
-    StableDiffusion**** 🤗
+    T2I*** 🤗
 
 **Network** 🛜
 
