@@ -17,7 +17,7 @@
 
     Blender 🧑‍🔧
 
-    Godot 🎮
+    Bevy 🎮
 
     O3DE 🎮
 
@@ -31,7 +31,9 @@
 
     Deploying offline LLM*** 🦙
     
-    T2I*** 🤗
+    TI2I&T2I**** 🤗
+
+    TI2V&T2V* 🤗
 
 **Network** 🛜
 
@@ -43,9 +45,9 @@
 
     VapourSynth* 🪼
 
-    AegiSub* 🥳
+    AegiSub** 🥳
 
-    Audacity* 🐚
+    Audacity** 🐚
 
     Premiere Pro** (Deprecated)
 
@@ -56,8 +58,6 @@
 **Typesetting**
 
     LaTeX 🔬
-
-    Markdown* 🖋️
 
     
 
